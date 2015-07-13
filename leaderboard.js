@@ -82,4 +82,6 @@ if (Meteor.isServer) {
 
   });
 
+  Kadira.connect('qbn7ruefLbevWm2bS', 'ec429a73-7e4c-4dbc-b678-b4510fb21c50');
+
 }
