@@ -42,7 +42,6 @@ if (Meteor.isClient) {
     'submit form': function(event) {
       event.preventDefault();
       var playerNameVar = event.target.playerName.value;
-      console.log(playerNameVar);
       PlayersList.insert({
         name: playerNameVar,
         score: 0
