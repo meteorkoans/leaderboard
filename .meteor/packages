@@ -8,3 +8,4 @@ meteor-platform
 accounts-password
 accounts-ui
 meteorhacks:kadira
+meteorhacks:kadira-profiler
